@@ -1,5 +1,6 @@
  
 <?php
+// hello first line added
 
 $data = '*/10 * * * * /usr/bin/wget -q /var/www/optimization/Web-Report/application/logs/cronerror.txt http://localhost/optimization/Web-Report/index.php/cron/index';
 
